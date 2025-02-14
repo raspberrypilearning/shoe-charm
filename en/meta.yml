@@ -1,11 +1,24 @@
-title: default-project-template
+title: 3D printable shoe charm
 hero_image: images/banner.png
-description: default-project-template description
+description: Design a shoe charm that can be 3D printed.
 version: 1
+theme: turquoise
+duration: 2
 listed: false
 copyedit: false
 last_tested: "2025-01-01"
 steps:
-  - title: What you will make
-  - title: Step title
-  - title: What can you do now?
+- title: What you will make
+- title: Create a new project
+  completion:
+  - engaged
+- title: Create a button
+- title: Create a cutout
+  completion:
+  - internal
+- title: 3D print your charm
+- title: Challenge
+  chalenge: true
+- title: What can you do now?
+  completion:
+  - external

@@ -1,42 +1,25 @@
 ## What you will make
-OR
-## What you will do - change meta if you use this
 
-A brief description - one or two sentences. 
+Design a shoe charm that can be 3D printed.
+
+--- no-print ---
+<div class="responsive-embed responsive-embed--video">
+  <iframe class="responsive-embed__iframe" src="https://sketchfab.com/models/217adc1b26a74dfd84d8d4cdb960823a/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+--- /no-print ---
 
 --- print-only ---
-![ALT TEXT](images/IMAGE.png)
+
+![A 3D render of a green Code Club charm](images/final-charm.png)
+
 --- /print-only ---
 
---- no-print ---
+Tinkercard is a 3D model editor that you can use in a web browser on a computer or tablet. 
 
-Editor embed 
+You drag and drop code blocks to design 3D models that can be exported for 3D printing. 
 
---- /no-print ---
+### You will need (optional)
 
---- no-print ---
-Video embed
++ A 3D printer and filament. Solid colours work best. The charm doesn't use a lot of filament and is small and quick to 3D print. 
++ A badge pin, or double-sided sticky tape.
 
-<video width="640" height="360" controls>
-<source src="images/videoname.mp4" type="video/mp4">
-</video>
-
-Youtube embed 
-<html>
-<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-</iframe>
-</div><br>
-</html>
-
-Scratch embed
-<div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/XXXXXXXXX/?autostart=false" frameborder="0"></iframe>
-</div>
-
---- /no-print ---
-
-### You will need:
-- a
-- b
-- c
