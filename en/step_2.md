@@ -1,6 +1,6 @@
 ## Create a new project
 
-Tinkercard is a 3D model editor that you can use in a web browser on a computer or tablet. 
+Tinkercad is a 3D model editor that you can use in a web browser on a computer or tablet. 
 
 If you have been given a code to join a class.
 
