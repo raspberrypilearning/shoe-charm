@@ -61,6 +61,6 @@ Group the objects.
 
 The logo will be cut out of the button!
 
-![The cutout is created in the button](images/cutout.jpg)
+![The cutout is created in the button](images/cutout.png)
 
 --- /task ---
