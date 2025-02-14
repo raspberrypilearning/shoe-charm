@@ -26,8 +26,6 @@ Sign up for a Tinkercad account [here](https://www.tinkercad.com/join){:target="
 
 Open the [starter design](https://www.tinkercad.com/things/17sUhbDWiRe-cc-shoe-charm-starter){:target="_blank"}.
 
-![The 'Tinker this' button](images/blank-starter.png)
-
 --- /task ---
 
 --- task ---
@@ -37,3 +35,7 @@ Click the blue 'Tinker this' button.
 ![The 'Tinker this' button](images/tinker-this.png)
 
 --- /task ---
+
+The starter project looks like this:
+
+![The starter project workplane open with the Code Club logo object positioned bottom right](images/blank-starter.png)
