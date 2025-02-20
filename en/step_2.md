@@ -30,9 +30,9 @@ Open the [starter design](https://www.tinkercad.com/things/17sUhbDWiRe-cc-shoe-c
 
 --- task ---
 
-Click the blue 'Tinker this' button.
+Click the blue 'Copy and Tinker' button.
 
-![The 'Tinker this' button](images/tinker-this.png)
+![The 'Copy and Tinker' button](images/copy-and-tinker.png)
 
 --- /task ---
 

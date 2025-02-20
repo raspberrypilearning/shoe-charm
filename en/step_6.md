@@ -12,4 +12,22 @@ Add, edit and group some shapes to create new cutouts, or change your button fro
 
 --- /task ---
 
+--- task ---
 
+- Add the snap fit hole.
+
+![The snap fit hole in place on the charm](images/snap-fit-hole.png)
+
+- Then group it with the charm to cut out the socket shape in the charm.
+
+![The snap fit hole grouped, creating a cutout in the charm](images/snap-fit-socket.png)
+
+- Print the snap object to fit into the socket you have made in the charm, securing your charm on your shoe!
+
+**TODO**
+![The snap piece fitted into the socket on the charm](images/snap-socket.jpg)
+
+**TODO**
+![The snap piece fitted through the hole of a plastic shoe, securing the charm](images/charm-snapped.jpg)
+
+--- /task ---
