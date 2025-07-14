@@ -31,10 +31,7 @@ The one you choose will depend on the 3D printer that you are using.
 
 --- task ---
 
-Carefully remove the 3D print from the print bed. 
-	
-**TODO**
-![The finished 3D print](images/charm-printed.png) 
+Carefully remove the 3D print from the print bed.
 		
 --- /task ---
 

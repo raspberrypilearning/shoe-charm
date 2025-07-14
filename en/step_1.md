@@ -2,7 +2,11 @@
 
 Design a shoe charm that can be 3D printed.
 
-![Small Python logo charms attached through one of the holes in a plastic shoe](images/python-croc.jpg)
+![A shoe charm fitted through the hole of shoe](images/shoe-charm.jpg)
+
+--- no-print ---
+![Someone wiggling their feet in shoes with a shoe charm](images/shoe-charm.gif)
+--- /no-print ---
 
 --- no-print ---
 <div class="responsive-embed responsive-embed--video">

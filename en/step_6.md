@@ -24,10 +24,6 @@ Add, edit and group some shapes to create new cutouts, or change your button fro
 
 - Print the snap object to fit into the socket you have made in the charm, securing your charm on your shoe!
 
-**TODO**
-![The snap piece fitted into the socket on the charm](images/snap-socket.jpg)
-
-**TODO**
-![The snap piece fitted through the hole of a plastic shoe, securing the charm](images/charm-snapped.jpg)
+![The charm fitted through the hole of shoe, securing the charm](images/shoe-charm.jpg)
 
 --- /task ---
