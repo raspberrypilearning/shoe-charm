@@ -6,7 +6,7 @@ theme: turquoise
 duration: 2
 listed: false
 copyedit: false
-last_tested: "2025-01-01"
+last_tested: "2025-07-14"
 steps:
 - title: What you will make
 - title: Create a new project
@@ -19,6 +19,5 @@ steps:
 - title: 3D print your charm
 - title: Challenge
   challenge: true
-- title: What can you do now?
   completion:
   - external
