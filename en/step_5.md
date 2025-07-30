@@ -23,9 +23,11 @@ Choose .STL and remember where you save your file.
 
 --- task ---
 
-There are lots of tools that can read STL files and send 3D models to a printer. 
+There are lots of tools that can read .STL files and send 3D models to a printer. 
 
 The one you choose will depend on the 3D printer that you are using. 
+
+Follow the steps in your chosen tool to print your design.
 
 --- /task ---
 
