@@ -8,7 +8,7 @@ Change the logo to your name.
 
 --- task ---
 
-Add, edit and group some shapes to create new cutouts, or change your button from a cylinder to a different shape.
+Add, edit, and group some shapes to create new cutouts, or change your button from a cylinder to a different shape.
 
 --- /task ---
 
@@ -18,7 +18,7 @@ Add, edit and group some shapes to create new cutouts, or change your button fro
 
 ![The snap fit hole in place on the charm](images/snap-fit-hole.png)
 
-- Then group it with the charm to cut out the socket shape in the charm.
+- Group the snap fit hole with the charm to cut out the socket shape in the charm.
 
 ![The snap fit hole grouped, creating a cutout in the charm](images/snap-fit-socket.png)
 
