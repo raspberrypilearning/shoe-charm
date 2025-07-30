@@ -16,7 +16,7 @@ Press the <kbd>F</kbd> key to fit the view to the selected object.
 
 --- task ---
 
-Press the 'Top' view.
+Select the **Top** view.
 ![The Top View button](images/top-view.png)
 
 --- /task ---
@@ -29,7 +29,7 @@ Hold down <kbd>Ctrl</kbd> and press <kbd>A</kbd> (<kbd>Cmd⌘</kbd> and <kbd>A</
 
 --- task ---
 
-Click Align to help you position the logo centrally.
+Click **Align** to help you position the logo centrally.
 
 ![The align tool](images/align.png)
 
@@ -41,7 +41,7 @@ Click Align to help you position the logo centrally.
 
 Make sure **ONLY** the logo is selected.
 
-Change its shape to a 'Hole'.
+Change its shape to 'Hole'.
 
 ![The Hole option in the Shape menu](images/hole.png)
 
