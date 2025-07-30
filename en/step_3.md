@@ -34,7 +34,7 @@ Drag the height node down (or type in the box) to change the height to `4.00`.
 
 --- task ---
 
-Hold the <kbd>SHIFT</kbd> key and drag the corner node until the height and width are both `36.00`.
+Hold the <kbd>SHIFT</kbd> key and drag the corner node until both the width values are `36.00`.
 
 ![A cylinder with diameter 36mm](images/36mm-diameter.png)
 
