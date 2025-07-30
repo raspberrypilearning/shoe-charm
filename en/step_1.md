@@ -1,11 +1,11 @@
 ## What you will make
 
-Design a shoe charm that can be 3D printed.
+Design a shoe charm to 3D print.
 
-![A shoe charm fitted through the hole of shoe](images/shoe-charm.jpg)
+![A shoe charm reading Code Club attached to a shoelace of a Converse-style trainer.](images/shoe-charm.jpg)
 
 --- no-print ---
-![Someone wiggling their feet in shoes with a shoe charm](images/shoe-charm.gif)
+![Someone wiggling their feet in Croc-style shoes with a shoe charm attached.](images/shoe-charm.gif)
 --- /no-print ---
 
 --- no-print ---
@@ -16,7 +16,7 @@ Design a shoe charm that can be 3D printed.
 
 --- print-only ---
 
-![A 3D render of a green Code Club charm](images/final-charm.png)
+![A 3D render of a green Code Club shoe charm.](images/final-charm.png)
 
 --- /print-only ---
 
@@ -30,6 +30,6 @@ Design a shoe charm that can be 3D printed.
 ---
 title: Mentor information
 ---
-If you would like to set up a Classroom in Tinkercad, you can find out more [here](https://www.tinkercad.com/classrooms-resources){:target="_blank"}.
+If you would like to set up a classroom in Tinkercad, you can find out more [here](https://www.tinkercad.com/classrooms-resources){:target="_blank"}.
 
 --- /collapse ---
