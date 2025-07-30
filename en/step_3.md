@@ -16,11 +16,11 @@ Left-click again to place it.
 
 --- task ---
 
-Left-click the height-node.
+Left-click the height node.
 
 ![The height node selected](images/height-node.png)
 
-It will turn red and the height of the cylinder (in mm) is shown.
+It will turn red and the height of the cylinder (in mm) will be shown.
 
 --- /task ---
 
@@ -34,7 +34,7 @@ Drag the height node down (or type in the box) to change the height to `4.00`.
 
 --- task ---
 
-Hold the <kbd>SHIFT</kbd> key and drag the corner node until the height and width are both `36.00`
+Hold the <kbd>SHIFT</kbd> key and drag the corner node until the height and width are both `36.00`.
 
 ![A cylinder with diameter 36mm](images/36mm-diameter.png)
 
