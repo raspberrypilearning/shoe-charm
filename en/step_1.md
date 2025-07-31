@@ -23,7 +23,6 @@ Design a shoe charm to 3D print.
 ### You will need (optional)
 
 + A 3D printer and filament. Solid colours work best. The charm doesn't use a lot of filament and is small and quick to 3D print. 
-+ A badge pin, or double-sided sticky tape.
 
 --- collapse ---
 
