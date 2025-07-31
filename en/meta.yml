@@ -4,9 +4,9 @@ description: Design a shoe charm that can be 3D printed.
 version: 1
 theme: turquoise
 duration: 2
-listed: false
-copyedit: false
-last_tested: "2025-07-14"
+listed: true
+copyedit: true
+last_tested: "2025-07-31"
 steps:
 - title: What you will make
 - title: Create a new project
