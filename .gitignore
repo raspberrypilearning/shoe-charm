@@ -9,4 +9,7 @@ env/
 
 ### MacOS ###
 .DS_STORE
+<<<<<<< HEAD
+=======
 .DS_Store
+>>>>>>> draft
